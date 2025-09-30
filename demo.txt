@@ -1,1 +1,60 @@
-This is first day at aissms ioit
+git config --global user.name "usename"
+git config --global user.email "usename"
+git config --global --list
+
+
+
+
+
+
+
+
+
+
+
+git add .
+git commit -m"added new document"
+git push
+ 
+git pull
+
+
+git clone https://github.com/javascriptbear/todo_react_app.git
+git add .
+git commit -m"added new document"
+git push
+
+
+git pull
+git add .
+git commit -m"added new document"
+git push
+
+
+
+
+Create n new branch
+git brach brach-name
+
+add some code
+
+merge it with main branch
+git checkout main
+git merge bracn-name
+
+then push it to github
+git add .
+git commit -m"added new document"
+git push
+
+
+
+
+
+
+
+
+
+
+
+
